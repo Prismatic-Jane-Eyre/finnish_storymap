@@ -1,0 +1,8 @@
+line={
+"type": "FeatureCollection",
+"name": "finnish_covers_data_line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "begin": "2", "end": "6" }, "geometry": { "type": "LineString", "coordinates": [ [ 25.665459227500001, 60.395436182 ], [ 25.665459227500001, 60.395436182 ], [ 24.4610852717, 60.996555196300001 ], [ 24.4610852717, 60.996555196300001 ], [ 24.4610852717, 60.996555196300001 ] ] } }
+]
+}
